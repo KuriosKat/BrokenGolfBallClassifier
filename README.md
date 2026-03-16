@@ -8,11 +8,11 @@
 ---
 
 ```
-<img src="./img1.png">
-<img src="./img2.png">
+
 🥇  2023 임베디드SW경진대회 · 자유공모부문 · 산업통상자원부장관상
 ```
-
+<img src="./img1.png">
+<img src="./img2.png">
 ---
 
 [![Award](https://img.shields.io/badge/🏆_수상-산업통상자원부장관상-gold?style=for-the-badge)](https://github.com/KuriosKat/BrokenGolfBallClassifier)
